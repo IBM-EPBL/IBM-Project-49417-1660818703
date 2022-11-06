@@ -1,0 +1,86 @@
+#header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background-color: rgb(228, 137, 231);
+}
+
+#image{
+    height: 110px;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+#name{
+    letter-spacing: 0.2em;
+}
+
+#web{
+    letter-spacing: 0.1em;
+    margin-top: 8px;
+}
+
+#underline{
+    width: 130px;
+    height: 3px;
+    background-color: cornsilk;
+}
+
+#wrapper{
+    padding: 0px;
+    margin-top: 25px;
+}
+
+#progress-bar{
+    background-color: rgb(194, 196, 197);
+    height: 10px;
+    width: 200px;
+}
+
+
+
+.skills{
+    display: grid;
+    grid-template-columns: 40fr 4fr;
+}
+
+#progresscss{
+    background-color: rgba(142, 119, 226, 0.781);
+    height: 10px;
+    width: 150px;
+}
+
+
+
+#progresshtml{
+    background-color: rgba(142, 119, 226, 0.781);
+    height: 10px;
+    width: 190px;
+}
+
+#progressjs{
+        background-color: rgba(142, 119, 226, 0.781);
+        height: 10px;
+        width: 160px;
+    }
+
+
+
+#progresssketch{
+    background-color: rgba(10, 153, 86, 0.781);
+            height: 10px;
+            width: 160px;
+}
+
+#progressxd{
+    background-color: rgba(10, 153, 86, 0.781);
+            height: 10px;
+            width: 140px;
+}
+
+#progressadobe{
+    background-color: rgba(10, 153, 86, 0.781);
+    height: 10px;
+    width: 180px;
+}
